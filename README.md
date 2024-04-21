@@ -1,3 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=70&section=header"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&color=F7F7F7&lines=Hey+there+!;It's+Adi+here+👋🏻;Welcome+to+my+profile;Fellow+Data+Science+Enthusiast+🧑🏻‍💻;Let's+connect!+✨;)](https://git.io/typing-svg)
+
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzzz_adi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adigulalkari) 
