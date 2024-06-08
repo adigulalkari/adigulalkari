@@ -2,9 +2,30 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&color=F7F7F7&lines=Hey+there+!;It's+Adi+here+👋🏻;Welcome+to+my+profile;Fellow+Data+Science+Enthusiast+🧑🏻‍💻;Let's+connect!+✨;)](https://git.io/typing-svg)
-
-
 </div>
+
+```javascript
+const Adi = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Java", "Cpp", "Javascript", "R"],
+    askMeAbout: ["Data Science", "Food", "Tech", "More Food"],
+    webdev: {
+        frontend: {
+            js: ["React", "VueJS", "Express"],
+        },
+        backend: {
+            python: ["Flask", "Fast API"]
+        },
+    data science: {
+        "ml", "nlp", "LLM", "computer vision"
+        }
+    devOps: ["Azure", "Docker🐳"],
+    databases: ["postgres", "MySql", "sqlite"],
+    misc: ["scikit-learn", "llama", "scrapy", "open-cv", "beautifulsoup", "dsa"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzzz_adi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adigulalkari) 
