@@ -18,7 +18,7 @@ const Adi = {
         },
     data science: {
         "ml", "nlp", "LLM", "computer vision"
-        }
+        },
     devOps: ["Azure", "Docker🐳"],
     databases: ["postgres", "MySql", "sqlite"],
     misc: ["scikit-learn", "llama", "scrapy", "open-cv", "beautifulsoup", "dsa"]
