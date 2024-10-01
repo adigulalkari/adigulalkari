@@ -7,7 +7,7 @@
 ```javascript
 const Adi = {
     pronouns: "He" | "Him",
-code: ["Python", "GO", "Java", "Cpp", "Javascript", "R"],
+    code: ["Python", "GO", "Java", "Cpp", "Javascript", "R"],
     askMeAbout: ["Data Science", "Food", "Tech", "More Food"],
     webdev: {
         frontend: {
