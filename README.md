@@ -11,12 +11,12 @@ const Adi = {
     askMeAbout: ["Data Science", "Food", "Tech", "More Food"],
     webdev: {
         frontend: {
-            js: ["React", "VueJS", "Express"],
+            js: ["React", "VueJS"],
         },
         backend: {
             python: ["Flask", "Fast API"]
         },
-    data science: {
+    data-science: {
         "ml", "nlp", "LLM", "computer vision"
         },
     devOps: ["Azure", "Docker🐳"],
