@@ -22,7 +22,7 @@ const Adi = {
     devOps: ["Azure", "Docker🐳", "Google Cloud"],
     bigdata: ["Apache Spark", "Kafka", "Hadoop"],
     databases: ["postgres", "MySql", "sqlite"],
-    misc: ["pytorch", "llama", "open-cv", "beautifulsoup", "dsa"]
+    misc: ["pytorch", "llama", "open-cv", "beautifulsoup", "redis", "dsa"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
