@@ -7,7 +7,7 @@
 ```javascript
 const Adi = {
     pronouns: "He" | "Him",
-    code: ["Python", "GO", "Java", "Cpp", "Javascript", "R"],
+    code: ["Python", "GO", "Java", "C++", "Javascript", "R"],
     askMeAbout: ["Data Science", "Food", "Tech", "More Food"],
     webdev: {
         frontend: {
@@ -17,11 +17,12 @@ const Adi = {
             python: ["Flask", "Fast API"]
         },
     data-science: {
-        "ml", "nlp", "LLM", "computer vision"
+        "ml", "nlp", "gen-ai", "computer vision"
         },
-    devOps: ["Azure", "Docker🐳"],
+    devOps: ["Azure", "Docker🐳", "Google Cloud"],
+    bigdata: ["Apache Spark", "Kafka", "Hadoop"],
     databases: ["postgres", "MySql", "sqlite"],
-    misc: ["scikit-learn", "llama", "scrapy", "open-cv", "beautifulsoup", "dsa"]
+    misc: ["pytorch", "llama", "open-cv", "beautifulsoup", "dsa"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
