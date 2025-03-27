@@ -12,18 +12,26 @@ const Adi = {
     webdev: {
         frontend: {
             js: ["React", "VueJS"],
+            python: ["Streamlit", "Dash"],
         },
         backend: {
             python: ["Flask", "Fast API"]
-        },
+        }
+    },
     data-science: {
-        "ml", "nlp", "gen-ai", "computer vision"
+        genai: {
+            agenticAI: ["Langchain", "Langgraph", "RAG"],
+            llm: {"Llama3", "Claude-Sonnet-3.5", "Gemini"}
         },
-    devOps: ["Azure", "Docker🐳", "Google Cloud"],
+        deepLearning: {
+            audio: {"Wave2Vec2", "Spectrograms"},
+            vision: {"YOLOv8", "VGG16", "Swin2sr"},
+        },
+        ml: ["classification", "boosting"]
+    },
+    devOps: ["Azure", "AWS", "Docker🐳", "Google Cloud", "Git"],
     bigdata: ["Apache Spark", "Kafka", "Hadoop"],
     databases: ["postgres", "MySql", "sqlite"],
-    misc: ["pytorch", "llama", "open-cv", "beautifulsoup", "redis", "dsa"]
-    },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
